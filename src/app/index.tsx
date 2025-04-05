@@ -9,7 +9,8 @@ export default function Index () {
             <Text> O texto reative</Text>
             <Text> 10/02</Text>
             <Text> Geovana monteiro</Text>
-            <Text> Macaxeiral </Text>
+            <Text> Erro na coluna </Text>
+            <Text> Garantia de um ano </Text>
         </View>
      
     );
