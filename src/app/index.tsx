@@ -10,7 +10,7 @@ export default function Index () {
             <Text> 10/02</Text>
             <Text> Geovana monteiro</Text>
             <Text> Erro na coluna </Text>
-            <Text> Garantia de um ano </Text>
+            <Text> Garantia de um android</Text>
         </View>
      
     );
